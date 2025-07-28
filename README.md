@@ -1,6 +1,6 @@
 # ResuMatch
 
-ResuMatch is a Next.js application that matches resumes with job descriptions using advanced AI and NLP technologies. It leverages Azure AI, Gemini, and Cosine Similarityto provide accurate and insightful matching results.
+ResuMatch is a Next.js application that matches resumes with job descriptions using advanced AI and NLP technologies. It leverages Azure AI, Gemini, and Cosine Similarity to provide accurate and insightful matching results.
 
 ---
 
