@@ -90,4 +90,4 @@ src/
 - [Next.js Documentation](https://nextjs.org/docs)
 - [Tailwind CSS Documentation](https://tailwindcss.com/docs)
 - [Azure AI Documentation](https://learn.microsoft.com/en-us/azure/cognitive-services/)
-- [OpenAI Documentation](https://platform.openai.com/docs/)
+- [Gemini API Documentation](https://ai.google.dev/gemini-api/docs)
